@@ -37,27 +37,27 @@ body, html {
 }
 
 .caixa1 {
-	background-image: url(../imagens/imagem1.jpg);
+	background-image: url(imagem1.jpg);
 }
 
 .caixa2 {
-	background-image: url(../imagens/imagem2.jpg);
+	background-image: url(imagem2.jpg);
 }
 
 .caixa3 {
-	background-image: url(../imagens/imagem3.jpg);
+	background-image: url(imagem3.jpg);
 }
 
 .caixa4 {
-	background-image: url(../imagens/imagem4.jpg);
+	background-image: url(imagem4.jpg);
 }
 
 .caixa5 {
-	background-image: url(../imagens/imagem5.jpg);
+	background-image: url(imagem5.jpg);
 }
 
 .caixa6 {
-	background-image: url(../imagens/imagem6.jpg);
+	background-image: url(imagem6.jpg);
 }
 
 /** Formatação Cónteúdo**/
